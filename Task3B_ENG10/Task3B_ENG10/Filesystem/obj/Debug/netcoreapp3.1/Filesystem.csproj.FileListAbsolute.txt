@@ -1,0 +1,14 @@
+C:\Users\Admin\Documents\MEGAsync\wut\STUDY WUT\SEM 4\Task3B_ENG10\Task3B_ENG10\Filesystem\obj\Debug\netcoreapp3.1\Filesystem.csproj.AssemblyReference.cache
+C:\Users\Admin\Documents\MEGAsync\wut\STUDY WUT\SEM 4\Task3B_ENG10\Task3B_ENG10\Filesystem\obj\Debug\netcoreapp3.1\Filesystem.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Admin\Documents\MEGAsync\wut\STUDY WUT\SEM 4\Task3B_ENG10\Task3B_ENG10\Filesystem\obj\Debug\netcoreapp3.1\Filesystem.AssemblyInfoInputs.cache
+C:\Users\Admin\Documents\MEGAsync\wut\STUDY WUT\SEM 4\Task3B_ENG10\Task3B_ENG10\Filesystem\obj\Debug\netcoreapp3.1\Filesystem.AssemblyInfo.cs
+C:\Users\Admin\Documents\MEGAsync\wut\STUDY WUT\SEM 4\Task3B_ENG10\Task3B_ENG10\Filesystem\obj\Debug\netcoreapp3.1\Filesystem.csproj.CoreCompileInputs.cache
+C:\Users\Admin\Documents\MEGAsync\wut\STUDY WUT\SEM 4\Task3B_ENG10\Task3B_ENG10\Filesystem\bin\Debug\netcoreapp3.1\Filesystem.exe
+C:\Users\Admin\Documents\MEGAsync\wut\STUDY WUT\SEM 4\Task3B_ENG10\Task3B_ENG10\Filesystem\bin\Debug\netcoreapp3.1\Filesystem.deps.json
+C:\Users\Admin\Documents\MEGAsync\wut\STUDY WUT\SEM 4\Task3B_ENG10\Task3B_ENG10\Filesystem\bin\Debug\netcoreapp3.1\Filesystem.runtimeconfig.json
+C:\Users\Admin\Documents\MEGAsync\wut\STUDY WUT\SEM 4\Task3B_ENG10\Task3B_ENG10\Filesystem\bin\Debug\netcoreapp3.1\Filesystem.runtimeconfig.dev.json
+C:\Users\Admin\Documents\MEGAsync\wut\STUDY WUT\SEM 4\Task3B_ENG10\Task3B_ENG10\Filesystem\bin\Debug\netcoreapp3.1\Filesystem.dll
+C:\Users\Admin\Documents\MEGAsync\wut\STUDY WUT\SEM 4\Task3B_ENG10\Task3B_ENG10\Filesystem\bin\Debug\netcoreapp3.1\Filesystem.pdb
+C:\Users\Admin\Documents\MEGAsync\wut\STUDY WUT\SEM 4\Task3B_ENG10\Task3B_ENG10\Filesystem\obj\Debug\netcoreapp3.1\Filesystem.dll
+C:\Users\Admin\Documents\MEGAsync\wut\STUDY WUT\SEM 4\Task3B_ENG10\Task3B_ENG10\Filesystem\obj\Debug\netcoreapp3.1\Filesystem.pdb
+C:\Users\Admin\Documents\MEGAsync\wut\STUDY WUT\SEM 4\Task3B_ENG10\Task3B_ENG10\Filesystem\obj\Debug\netcoreapp3.1\Filesystem.genruntimeconfig.cache
